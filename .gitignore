@@ -1,5 +1,6 @@
 # Azure deployment credentials — never commit
 publish-profile.xml
+azure-credentials.json
 *.PublishSettings
 
 # Python
