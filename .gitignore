@@ -1,0 +1,9 @@
+# Azure deployment credentials — never commit
+publish-profile.xml
+*.PublishSettings
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
